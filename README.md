@@ -6,5 +6,6 @@ Run /etc/init.d/rc 2 at system boot
 
 # Installation
 
-#. Import WSL init.xml to Task Scheduler
-#. copy sudoers.d/initrc to /etc/sudoers.d in wsl or wsl2
+1. Import WSL init.xml to Task Scheduler
+   - Type your windows credentials when asked
+2. copy sudoers.d/initrc to /etc/sudoers.d in wsl or wsl2
